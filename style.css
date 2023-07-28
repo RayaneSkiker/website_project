@@ -1,0 +1,22 @@
+div{
+    font-family: "Gill Sans";
+}
+
+nav{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.icons{
+    height: 25px;
+    width: 25px;
+}
+
+.options:hover
+{
+    color: blue;
+}
+
+.ad{
+    width: 100%;
+}
